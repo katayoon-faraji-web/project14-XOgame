@@ -1,5 +1,5 @@
 # trick32-XOgame
-- [Demo Project](https://katayoon-faraji-web.github.io/trick31-animation/)
+- [Demo Project](https://katayoon-faraji-web.github.io/trick32-XOgame/)
 
 - Developed by katayoon faraji
 
